@@ -1,0 +1,7 @@
+{
+  "plugin.dynv6-dns.name": "dynv6",
+  "plugin.dynv6-dns.description": "通过 dynv6 完成 ACME DNS-01 验证。",
+  "plugin.dynv6-dns.access.httpToken.label": "dynv6 HTTP Token",
+  "plugin.dynv6-dns.access.httpToken.tooltip": "这是什么？请参阅 <a href=\"https://dynv6.com/keys\" target=\"_blank\">https://dynv6.com/keys</a>",
+  "plugin.dynv6-dns.access.httpToken.placeholder": "请输入 dynv6 HTTP Token"
+}

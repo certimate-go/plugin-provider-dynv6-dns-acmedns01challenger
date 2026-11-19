@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "dynv6",
+  "binary": "dynv6-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via dynv6.",
+  "display_name_key": "plugin.dynv6-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "dynv6-dns",
+  "provider_aliases": [
+    "dynv6"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

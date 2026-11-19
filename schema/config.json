@@ -1,0 +1,8 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "dynv6-dns",
+  "category": "apply",
+  "schema": {
+    "columns": []
+  }
+}

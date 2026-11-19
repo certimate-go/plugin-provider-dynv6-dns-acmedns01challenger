@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "dynv6",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "httpToken",
+        "valueType": "secret",
+        "labelKey": "plugin.dynv6-dns.access.httpToken.label",
+        "tooltipKey": "plugin.dynv6-dns.access.httpToken.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.dynv6-dns.access.httpToken.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}
